@@ -20,6 +20,7 @@ jobs:
           node-version: 22
       - run: npm ci
       - run: npm test
+      - run: npm pack
       - run: npx semantic-release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
