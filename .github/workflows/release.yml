@@ -9,7 +9,7 @@ jobs:
     permissions:
       # 您已配置的
       id-token: write    # OIDC 令牌生成 (用于云厂商身份认证)
-      contents: read     # 当前您设置为只读
+      contents: write     # 当前您设置为只读
       
       # 其他可写权限项
       actions: write     # 管理 Actions 运行/工件
