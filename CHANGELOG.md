@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/PuppyOne/semantic-release-test/compare/v1.1.1...v1.1.2) (2025-03-21)
+
+
+### Bug Fixes
+
+* test issue ([1cdd5b2](https://github.com/PuppyOne/semantic-release-test/commit/1cdd5b2ef4f663cd606285f08f6be87773d2990b)), closes [#3](https://github.com/PuppyOne/semantic-release-test/issues/3)
+
 ## [1.1.1](https://github.com/PuppyOne/semantic-release-test/compare/v1.1.0...v1.1.1) (2025-03-21)
 
 
