@@ -2,6 +2,10 @@
   "name": "@pyppyone/semantic-release-test",
   "version": "0.0.0",
   "description": "",
+  "publishConfig": {
+    "access": "public",
+    "provenance": true
+  },
   "homepage": "https://github.com/PuppyOne/semantic-release-test#readme",
   "bugs": {
     "url": "https://github.com/PuppyOne/semantic-release-test/issues"
