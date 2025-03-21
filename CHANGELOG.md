@@ -1,3 +1,10 @@
+## [2.0.2](https://github.com/PuppyOne/semantic-release-test/compare/v2.0.1...v2.0.2) (2025-03-21)
+
+
+### Reverts
+
+* Revert "fix: trigger ci" ([4d32d59](https://github.com/PuppyOne/semantic-release-test/commit/4d32d59a422b27b06b6f77e5c3475781bb761132))
+
 ## [2.0.1](https://github.com/PuppyOne/semantic-release-test/compare/v2.0.0...v2.0.1) (2025-03-21)
 
 
