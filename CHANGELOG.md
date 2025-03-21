@@ -1,3 +1,13 @@
+# [2.0.0](https://github.com/PuppyOne/semantic-release-test/compare/v1.2.0...v2.0.0) (2025-03-21)
+
+
+* feat(unknown)!: test issue 4 ([#8](https://github.com/PuppyOne/semantic-release-test/issues/8)) ([879aca0](https://github.com/PuppyOne/semantic-release-test/commit/879aca084aebbde4b989c74bb13ac0144f9df0c9)), closes [#6](https://github.com/PuppyOne/semantic-release-test/issues/6)
+
+
+### BREAKING CHANGES
+
+* actually not
+
 # [1.2.0](https://github.com/PuppyOne/semantic-release-test/compare/v1.1.3...v1.2.0) (2025-03-21)
 
 
