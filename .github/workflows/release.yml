@@ -7,9 +7,21 @@ jobs:
   release:
     runs-on: ubuntu-latest
     permissions:
-        id-token: write
-        contents: write
-
+      # 您已配置的
+      id-token: write    # OIDC 令牌生成 (用于云厂商身份认证)
+      contents: read     # 当前您设置为只读
+      
+      # 其他可写权限项
+      actions: write     # 管理 Actions 运行/工件
+      checks: write      # 管理检查套件
+      deployments: write # 管理部署
+      issues: write      # 管理议题
+      packages: write    # 发布/管理包 (npm等)
+      pages: write       # 管理 GitHub Pages
+      pull-requests: write # 管理 PR
+      repository-projects: write # 管理项目
+      security-events: write # 提交安全事件
+      statuses: write    # 管理提交状态
     steps:
       - uses: actions/checkout@v4
         with:
