@@ -1,3 +1,10 @@
+## [2.0.3](https://github.com/PuppyOne/semantic-release-test/compare/v2.0.2...v2.0.3) (2025-03-21)
+
+
+### Reverts
+
+* Revert "ci(release): add tgz tarball to release" ([fdc3665](https://github.com/PuppyOne/semantic-release-test/commit/fdc366538cfb7c7bbc509c141a5a8361bdf2b46e))
+
 ## [2.0.2](https://github.com/PuppyOne/semantic-release-test/compare/v2.0.1...v2.0.2) (2025-03-21)
 
 
