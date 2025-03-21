@@ -6,3 +6,5 @@
 /.npmignore
 .releaserc.json
 *.ini
+/CHANGELOG.md
+/.husky
