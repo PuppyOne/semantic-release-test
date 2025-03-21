@@ -1,4 +1,4 @@
-const { add } = require('./index');
+const { add, mul } = require('./index');
 
 describe('index', () => {
     describe('add()', () => {
@@ -19,6 +19,25 @@ describe('index', () => {
         testParams.forEach(({ args, expected }) => {
             it(`should return ${expected} when called with ${args}`, () => {
                 const result = add(...args);
+                expect(result).toBe(expected);
+            });
+        });
+    });
+
+    describe('mul()', () => {
+        const testParams = [
+            { args: [], expected: 1 },
+            { args: [1], expected: 1 },
+            { args: [1, 1], expected: 1 },
+            { args: [1, 1, 1], expected: 1 },
+            { args: [1, 2], expected: 2 },
+            { args: [-1, -1], expected: 1 },
+            { args: [0, 0], expected: 0 },
+        ];
+
+        testParams.forEach(({ args, expected }) => {
+            it(`should return ${expected} when called with ${args}`, () => {
+                const result = mul(...args);
                 expect(result).toBe(expected);
             });
         });
