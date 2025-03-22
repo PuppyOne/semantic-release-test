@@ -27,15 +27,6 @@
                 ]
             }
         ],
-        [
-            "@semantic-release/github",
-            {
-                "assets": [
-                    {
-                        "path": "*.tgz"
-                    }
-                ]
-            }
-        ]
+        "@semantic-release/github"
     ]
 }
