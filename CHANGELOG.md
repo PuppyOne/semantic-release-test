@@ -1,3 +1,10 @@
+## [2.0.8](https://github.com/PuppyOne/semantic-release-test/compare/v2.0.7...v2.0.8) (2025-03-22)
+
+
+### Reverts
+
+* Revert "ci(release): test when no explict pack but release" ([ca729f1](https://github.com/PuppyOne/semantic-release-test/commit/ca729f14e52b1fc51dd0747e750a12e3bd7b33d9))
+
 ## [2.0.7](https://github.com/PuppyOne/semantic-release-test/compare/v2.0.6...v2.0.7) (2025-03-22)
 
 
