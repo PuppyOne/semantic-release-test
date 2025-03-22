@@ -1,3 +1,10 @@
+## [2.0.4](https://github.com/PuppyOne/semantic-release-test/compare/v2.0.3...v2.0.4) (2025-03-22)
+
+
+### Bug Fixes
+
+* trigger ci ([9018c34](https://github.com/PuppyOne/semantic-release-test/commit/9018c34bf77b74fe9e8e7bd0f702a9a582aee8bb))
+
 ## [2.0.3](https://github.com/PuppyOne/semantic-release-test/compare/v2.0.2...v2.0.3) (2025-03-21)
 
 
