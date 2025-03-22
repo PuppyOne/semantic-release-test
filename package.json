@@ -15,7 +15,7 @@
     "url": "git+https://github.com/PuppyOne/semantic-release-test.git"
   },
   "license": "MIT",
-  "author": "",
+  "author": "PuppyOne",
   "type": "commonjs",
   "main": "src/index.js",
   "scripts": {
