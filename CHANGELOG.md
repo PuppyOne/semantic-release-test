@@ -1,3 +1,10 @@
+# [2.1.0](https://github.com/PuppyOne/semantic-release-test/compare/v2.0.9...v2.1.0) (2025-03-26)
+
+
+### Features
+
+* it should release `minor` ([4617dea](https://github.com/PuppyOne/semantic-release-test/commit/4617dea236edde58cbdf2cb3fd58eb979a238bd7))
+
 ## [2.0.9](https://github.com/PuppyOne/semantic-release-test/compare/v2.0.8...v2.0.9) (2025-03-26)
 
 ## [2.0.8](https://github.com/PuppyOne/semantic-release-test/compare/v2.0.7...v2.0.8) (2025-03-22)
