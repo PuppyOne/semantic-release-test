@@ -1,3 +1,5 @@
+## [2.1.1](https://github.com/PuppyOne/semantic-release-test/compare/v2.1.0...v2.1.1) (2026-06-11)
+
 # [2.1.0](https://github.com/PuppyOne/semantic-release-test/compare/v2.0.9...v2.1.0) (2025-03-26)
 
 

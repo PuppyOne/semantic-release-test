@@ -1,6 +1,6 @@
 {
   "name": "@puppyone/semantic-release-test",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "description": "Personal sandbox project for CI/CD configuration drills (semantic-release/husky/commitlint practice only)",
   "publishConfig": {
     "access": "public",
